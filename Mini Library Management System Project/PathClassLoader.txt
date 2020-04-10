@@ -1,0 +1,446 @@
+10 Apr 2020 0:40:13 GMT: Log 'PathClassLoader.txt' opened: 10 Apr 2020 0:40:13 GMT with name C:\Users\aaron\CS\Project 2\219_akim56_P2\PathClassLoader.txt
+10 Apr 2020 0:40:13 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]'
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 0:40:15 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(java.lang.edu) called
+10 Apr 2020 0:40:15 GMT: findResource(java/lang/edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 0:40:15 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 0:40:15 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice.cs) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice/cs.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice.cs) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice/cs.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 0:40:15 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(java.lang.edu) called
+10 Apr 2020 0:40:15 GMT: findResource(java/lang/edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 0:40:15 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 0:40:15 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 0:40:15 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 0:40:15 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 0:40:15 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(java.lang.edu) called
+10 Apr 2020 0:40:15 GMT: findResource(java/lang/edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 0:40:15 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice.cs) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice/cs.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice.cs) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice/cs.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice.cs) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice/cs.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice.cs) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice/cs.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice.cs) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice/cs.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+10 Apr 2020 0:40:15 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(Member) called
+10 Apr 2020 0:40:15 GMT: findResource(Member.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(Person) called
+10 Apr 2020 0:40:15 GMT: findResource(Person.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(Book) called
+10 Apr 2020 0:40:15 GMT: findResource(Book.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:15 GMT: PathClassLoader.findClass(Address) called
+10 Apr 2020 0:40:15 GMT: findResource(Address.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:21 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]'
+10 Apr 2020 0:40:21 GMT: PathClassLoader.findClass(Address) called
+10 Apr 2020 0:40:21 GMT: findResource(Address.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:21 GMT: PathClassLoader.findClass(Book) called
+10 Apr 2020 0:40:21 GMT: findResource(Book.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:21 GMT: PathClassLoader.findClass(Librarian) called
+10 Apr 2020 0:40:21 GMT: findResource(Librarian.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:21 GMT: PathClassLoader.findClass(Person) called
+10 Apr 2020 0:40:21 GMT: findResource(Person.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:21 GMT: PathClassLoader.findClass(Member) called
+10 Apr 2020 0:40:21 GMT: findResource(Member.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:21 GMT: PathClassLoader.findClass(Library) called
+10 Apr 2020 0:40:21 GMT: findResource(Library.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 0:40:21 GMT: PathClassLoader.findClass(P2Tester) called
+10 Apr 2020 0:40:21 GMT: findResource(P2Tester.class) called; _path is [, , C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2\219_akim56_P2, C:\Users\aaron\CS\Project 2, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:26 GMT: Log 'PathClassLoader.txt' opened: 10 Apr 2020 20:04:26 GMT with name C:\Users\aaron\CS\Project 2\Mini Library Management System Project\PathClassLoader.txt
+10 Apr 2020 20:04:26 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]'
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:04:28 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(java.lang.edu) called
+10 Apr 2020 20:04:28 GMT: findResource(java/lang/edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:04:28 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:04:28 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice.cs) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice/cs.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice.cs) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice/cs.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:04:28 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(java.lang.edu) called
+10 Apr 2020 20:04:28 GMT: findResource(java/lang/edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:04:28 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:04:28 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:04:28 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:04:28 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:04:28 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(java.lang.edu) called
+10 Apr 2020 20:04:28 GMT: findResource(java/lang/edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:04:28 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice.cs) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice/cs.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice.cs) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice/cs.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice.cs) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice/cs.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice.cs) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice/cs.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice.cs) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice/cs.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+10 Apr 2020 20:04:28 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(Person) called
+10 Apr 2020 20:04:28 GMT: findResource(Person.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:04:28 GMT: PathClassLoader.findClass(Address) called
+10 Apr 2020 20:04:28 GMT: findResource(Address.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:54 GMT: Log 'PathClassLoader.txt' opened: 10 Apr 2020 20:06:54 GMT with name C:\Users\aaron\CS\Project 2\Mini Library Management System Project\PathClassLoader.txt
+10 Apr 2020 20:06:54 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]'
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:06:55 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(java.lang.edu) called
+10 Apr 2020 20:06:55 GMT: findResource(java/lang/edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:06:55 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:06:55 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice.cs) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice/cs.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice.cs) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice/cs.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:06:55 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(java.lang.edu) called
+10 Apr 2020 20:06:55 GMT: findResource(java/lang/edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:06:55 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:06:55 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:06:55 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:06:55 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:06:55 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(java.lang.edu) called
+10 Apr 2020 20:06:55 GMT: findResource(java/lang/edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:06:55 GMT: findResource(edu.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice.cs) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice/cs.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice.cs) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice/cs.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice.cs) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice/cs.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice.cs) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice/cs.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice.cs) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice/cs.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+10 Apr 2020 20:06:55 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:55 GMT: PathClassLoader.findClass(Tester) called
+10 Apr 2020 20:06:55 GMT: findResource(Tester.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:56 GMT: PathClassLoader.findClass(P2Tester) called
+10 Apr 2020 20:06:56 GMT: findResource(P2Tester.class) called; _path is [, , C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:06:57 GMT: Log 'PathClassLoader.txt' opened: 10 Apr 2020 20:06:57 GMT with name C:\Users\aaron\CS\Project 2\Mini Library Management System Project\PathClassLoader.txt
+10 Apr 2020 20:06:57 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]'
+10 Apr 2020 20:07:00 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]'
+10 Apr 2020 20:07:00 GMT: PathClassLoader.findClass(Address) called
+10 Apr 2020 20:07:00 GMT: findResource(Address.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:00 GMT: PathClassLoader.findClass(Book) called
+10 Apr 2020 20:07:00 GMT: findResource(Book.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:00 GMT: PathClassLoader.findClass(Librarian) called
+10 Apr 2020 20:07:00 GMT: findResource(Librarian.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:00 GMT: PathClassLoader.findClass(Person) called
+10 Apr 2020 20:07:00 GMT: findResource(Person.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:00 GMT: PathClassLoader.findClass(Member) called
+10 Apr 2020 20:07:00 GMT: findResource(Member.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:00 GMT: PathClassLoader.findClass(Library) called
+10 Apr 2020 20:07:00 GMT: findResource(Library.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:00 GMT: PathClassLoader.findClass(Tester) called
+10 Apr 2020 20:07:00 GMT: findResource(Tester.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:16 GMT: Log 'PathClassLoader.txt' opened: 10 Apr 2020 20:07:16 GMT with name C:\Users\aaron\CS\Project 2\Mini Library Management System Project\PathClassLoader.txt
+10 Apr 2020 20:07:16 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]'
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:07:17 GMT: findResource(edu.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(java.lang.edu) called
+10 Apr 2020 20:07:17 GMT: findResource(java/lang/edu.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:07:17 GMT: findResource(edu.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:07:17 GMT: findResource(edu.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice.cs) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice/cs.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice.cs) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice/cs.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:07:17 GMT: findResource(edu.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(java.lang.edu) called
+10 Apr 2020 20:07:17 GMT: findResource(java/lang/edu.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:07:17 GMT: findResource(edu.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:07:17 GMT: findResource(edu.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:07:17 GMT: findResource(edu.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:07:17 GMT: findResource(edu.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:07:17 GMT: findResource(edu.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(java.lang.edu) called
+10 Apr 2020 20:07:17 GMT: findResource(java/lang/edu.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu) called
+10 Apr 2020 20:07:17 GMT: findResource(edu.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice.cs) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice/cs.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice.cs) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice/cs.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice.cs) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice/cs.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice.cs) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice/cs.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice.cs) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice/cs.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+10 Apr 2020 20:07:17 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(Tester) called
+10 Apr 2020 20:07:17 GMT: findResource(Tester.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:17 GMT: PathClassLoader.findClass(P2Tester) called
+10 Apr 2020 20:07:17 GMT: findResource(P2Tester.class) called; _path is [, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\CS\Project 2\Mini Library Management System Project, C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]
+10 Apr 2020 20:07:19 GMT: Log 'PathClassLoader.txt' opened: 10 Apr 2020 20:07:19 GMT with name C:\Users\aaron\CS\Project 2\Mini Library Management System Project\PathClassLoader.txt
+10 Apr 2020 20:07:19 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\aaron\OneDrive\Desktop\drjava-gmu.jar]'
